@@ -27,19 +27,14 @@
 </ul>
 
 
-<h3> 🎯 Repository Objective</h3>
-<p>
-  This repository is a curated collection of algorithmic solutions designed to showcase technical proficiency in data structures and computational efficiency. As a <b>Master’s candidate (Graduating Feb 2026)</b>, I use this space to document my daily progress in mastering the logic required for high-performance Machine Learning and Data Science systems.
-</p>
-
-<h3> 🏗️ Current Technical Focus</h3>
+<h3> Current Technical Focus</h3>
 <ul>
   <li><b>Computational Scalability:</b> Rigorous application of Big O analysis to ensure solutions remain performant at scale.</li>
   <li><b>Implementation Rigor:</b> Focus on clean, modular Python implementations for Array manipulation, String processing, and Hash-based lookups.</li>
   <li><b>Optimization:</b> Every implementation follows an <b>Action &rarr; Result &rarr; Impact</b> framework to ensure the most efficient runtime and memory usage.</li>
 </ul>
 
-<h3> 🚀 Roadmap: Upcoming Implementations</h3>
+<h3> Roadmap: Upcoming Implementations</h3>
 <p>
   I am currently expanding this repository to include advanced algorithmic patterns essential for complex data engineering:
 </p>

@@ -11,4 +11,4 @@ def sol(tickets, k):
 
 
 print(sol([2,2,2], 2))  # Output: 6
-print(sol([5,1,1,1], 0))  # Output: 8
+print(sol([5,1,1,1], 0))  # Output:

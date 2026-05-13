@@ -19,3 +19,4 @@ def sol(nums, k):
 
 print(sol([1, 3, -1, -3, 5, 3, 6, 7], 3))
 print(sol([1], 1))
+print(sol([1, 3, 2, 1,0,-1], 3))
